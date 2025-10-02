@@ -1,2 +1,2 @@
 # SM27
-Hell world, This is my profile 
+Hello world, This is my profile 
